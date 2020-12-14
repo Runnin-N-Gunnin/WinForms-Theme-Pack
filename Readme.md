@@ -5,6 +5,7 @@
 ## Changelog
 
 *+Dec 2020: Added jSkin
+
 *+May 2020: Added NetSeal Themes*
 
 # Examples:
