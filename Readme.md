@@ -4,9 +4,13 @@
 
 ## Changelog
 
+*+Dec 2020: Added jSkin
 *+May 2020: Added NetSeal Themes*
 
 # Examples:
+
+## jSkin
+![Alt text](/JSkinExample.png?raw=true "jSkin Example")
 
 ## NetSeal Original
 ![Alt text](/NetSealExOriginal.png?raw=true "NetSeal Original Theme")
